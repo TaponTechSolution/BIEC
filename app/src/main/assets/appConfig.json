@@ -1,0 +1,37 @@
+{
+    "AppConfig": {
+
+       "homeGridItems": [
+            {
+                "gridId": 1,
+                "gridType": "EVENTS",
+                "gridImage": "events_icon"
+            },
+            {
+                "gridId": 2,
+                "gridType": "SITEPLAN",
+                "gridImage": "siteplan_icon"
+            },
+            {
+                "gridId": 3,
+                "gridType": "ROUTEMAP",
+                "gridImage": "routemap_icon"
+            },
+            {
+                "gridId": 4,
+                "gridType": "NEWS",
+                "gridImage": "news_icon"
+            },
+            {
+                "gridId": 5,
+                "gridType": "GALLERY",
+                "gridImage": "gallery_icon"
+            },
+            {
+                "gridId": 6,
+                "gridType": "CONTACT",
+                "gridImage": "contact_icon"
+            }
+        ]
+    }
+}
